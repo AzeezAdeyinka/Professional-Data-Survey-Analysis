@@ -53,7 +53,7 @@ Key insights derived from the dashboard include:
 
 - There is moderate satisfaction with current salaries across the field.
 
-  ![survey dashboard](survey dashboard.png)
+  ![survey dashboard](https://github.com/AzeezAdeyinka/Professional-Data-Survey-Analysis/blob/main/survey%20dashboard.png)
 
  
 
